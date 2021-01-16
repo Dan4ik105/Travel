@@ -14,9 +14,9 @@
     height: 700px;
     margin-bottom: 200px;
 
-    background:url('/img/element.svg') no-repeat 750px 670px,
-                url('/img/element2.svg') no-repeat 40px 430px,
-                url('/img/element3.svg') no-repeat 600px 170px;
+    background:url('img/element.svg') no-repeat 750px 670px,
+                url('img/element2.svg') no-repeat 40px 430px,
+                url('img/element3.svg') no-repeat 600px 170px;
     
 }
 .nav{
@@ -127,7 +127,7 @@ button:active, button:focus {
     height: 40px;
 
     appearance: none;
-    background: url('/img/Frame.svg') no-repeat 90% 50%;
+    background: url('img/Frame.svg') no-repeat 90% 50%;
 }
 .finder-btn{
     background-color: #FB8F1D;
@@ -145,7 +145,7 @@ button:active, button:focus {
     margin: 0 auto;
     height: 550px;
 
-    background: url('/img/element3.svg') no-repeat 800px 0px;
+    background: url('img/element3.svg') no-repeat 800px 0px;
 
     margin-bottom: 70px;
 }
@@ -157,7 +157,7 @@ button:active, button:focus {
     display: flex;
     justify-content: space-between;
 
-    background: url('/img/element.svg') no-repeat 310px 270px; 
+    background: url('img/element.svg') no-repeat 310px 270px; 
 }
 .section1-title{
     font-family: Playfair Display;
@@ -207,7 +207,7 @@ button:active, button:focus {
     color: #FB8F1D;
     align-items: center;
 
-    background:url('/img/Vector 1.svg') no-repeat center right;
+    background:url('img/Vector 1.svg') no-repeat center right;
     width: 70px;
 }
 .destinations-card{
@@ -251,16 +251,16 @@ button:active, button:focus {
     padding-top: 10px;
 }
 .rajaAmpat{
-    background:url('/img/RajaAmpat.png') no-repeat;
+    background:url('img/RajaAmpat.png') no-repeat;
 }
 .fanjingshan{
-    background: url('/img/Fanjingshan.png') no-repeat;
+    background: url('img/Fanjingshan.png') no-repeat;
 }
 .vevey{
-    background: url('/img/Vevey.png') no-repeat;
+    background: url('img/Vevey.png') no-repeat;
 }
 .skadar{
-    background: url('/img/Skadar.png') no-repeat;
+    background: url('img/Skadar.png') no-repeat;
 }
 .section3{
     margin-top: 150px;
@@ -353,7 +353,7 @@ button:active, button:focus {
 .photo{
     width:384px;
     height: 491px;
-    background: url('/img/photo.png');
+    background: url('img/photo.png');
     border-radius: 14px;
 }
 .photo-rectangle{
@@ -439,16 +439,16 @@ button:active, button:focus {
     margin-top: 23px;
 }
 .blog1{
-    background: url('/img/image\ 12.png') no-repeat;
+    background: url('img/image\ 12.png') no-repeat;
 }
 .blog2{
-    background: url('/img/image\ 13.png') no-repeat;
+    background: url('img/image\ 13.png') no-repeat;
 }
 .blog3{
-    background: url('/img/image\ 14.png') no-repeat;
+    background: url('img/image\ 14.png') no-repeat;
 }
 .blog4{
-    background: url('/img/image\ 15.png') no-repeat;
+    background: url('img/image\ 15.png') no-repeat;
 }
 .footer{
     background: #F9F9FB;
